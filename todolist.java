@@ -1,5 +1,3 @@
-package to_do_list;
-
 public class todolist {
     public static String[] model = new String[10];
 
